@@ -1,4 +1,10 @@
-# TimePass: Friend Knows Best 🍿
+
+<p align="center">
+  <img width="100" height="100" alt="app_icon" src="https://github.com/user-attachments/assets/9f8d66f8-fc8e-4b8b-97fc-e23ff1e70b8b" />
+
+</p>
+
+# <h1 align="center">TimePass: Friend Knows Best 🍿</h1>
 
 **TimePass** is a professional, social-first Android application designed to revolutionize how we discover movies and TV shows. By moving away from generic, algorithm-driven ratings, it creates a dedicated space for trusted recommendations from your own "Inner Circle"—your friends, family, and specialized clubs.
 
@@ -30,28 +36,42 @@ The Home Screen is the heart of **TimePass**, delivering a curated stream of mov
   - **Search Friends**: Quickly find and connect with people using their `@username`.
 - **Navigation**: Clean, intuitive **Bottom Navigation Bar** for seamless transitions between Home, Clubs, Watchlist, and Profile.
   
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
   <img width="200" height="600" alt="Image" src="https://github.com/user-attachments/assets/6ce9be45-a539-43ef-87d6-044f88a3553e" />
+  <i>Global Feed</i>
+    </td>
+    <td align="center">
   
 <img width="200" height="600" alt="Image" src="https://github.com/user-attachments/assets/d2f6f539-27ed-4386-bdee-a9a3b339c0bc" />
+<i>Filters</i>
+    </td>
+    <td align="center">
 <img width="200" height="600" alt="Image" src="https://github.com/user-attachments/assets/c8e2b155-35fa-4315-a6e4-46bf2fb9e0cb" />
-
-  <br>
-  <i>Global recommendation feeds, Filters and Friends search </i>
-</p>
+<i>Friends Search</i>
+    </td>
+  </tr>
+</table>
+  
 
 ---
 
 ## 👥 Clubs: Private Movie Communities
 Create or join specialized "Circles" to share recommendations with specific groups of people.
 
-<p align="center">
-
+<table align="center">
+  <tr>
+    <td align="center">
 <img width="200" height="600" alt="Image" src="https://github.com/user-attachments/assets/6c4f9cb6-6545-4140-aff3-db44c6afbe36" />
+      <i>Club Discovery</i>
+    </td>
+    <td align="center">
 <img width="200" height="600" alt="Image" src="https://github.com/user-attachments/assets/960e22e5-167d-41fd-aee7-204068bc1e60" />
-  <br>
-  <i>Private Clubs for Personalized Communities</i>
-</p>
+  <i>Private Circle View</i>
+    </td>
+  </tr>
+</table>
 
 ### Feature Highlights:
 - **Club Management**: Create "Office Bingers," "Family Night," or "Cinephile Circle" with custom names and roles.
